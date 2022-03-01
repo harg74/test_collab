@@ -7,6 +7,5 @@ Bumpy
 pandas
 scikit-learn
 Werkzeug
-pickle
 pickle-mixin
 config
