@@ -17,8 +17,6 @@ attrs==21.4.0
 autopep8==1.5.6
 babel==2.9.1
 backcall==0.2.0
-backports==1.1
-backports.shutil_get_terminal_size==1.0.0
 bcrypt==3.2.0
 beautifulsoup4==4.10.0
 bitarray==2.3.5
