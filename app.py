@@ -1,9 +1,5 @@
-from dataclasses import dataclass
-from distutils.log import debug
-from tkinter.tix import Tree
-from itsdangerous import json
 import numpy as np
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, render_template
 import pickle
 from pymongo import MongoClient
 from config import password
