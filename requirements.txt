@@ -1,4 +1,3 @@
-xlwings
 absl-py==1.0.0
 alabaster==0.7.12
 anyio==2.2.0
@@ -282,7 +281,7 @@ wrapt==1.13.3
 wurlitzer==3.0.2
 xlrd==2.0.1
 XlsxWriter==3.0.2
-xlwings==0.24.9
+xlwings
 xlwt==1.3.0
 yapf==0.31.0
 zict==2.0.0
