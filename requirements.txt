@@ -6,4 +6,4 @@ Jinja2==2.11.3
 Bumpy
 pandas
 scikit-learn
-Werkzeung
+Werkzeug
