@@ -189,7 +189,7 @@ pyct==0.4.8
 pycurl==7.44.1
 pydocstyle==6.1.1
 pyerfa==2.0.0
-pyflakes==2.4.0
+pyflakes==2.3.0
 Pygments==2.10.0
 pylint==2.12.2
 pyls-black==0.4.6
