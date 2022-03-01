@@ -39,9 +39,6 @@ click==8.0.3
 cloudpickle==2.0.0
 colorama==0.4.4
 colorcet==2.0.6
-conda==4.11.0
-conda-pack==0.6.0
-conda-package-handling==1.7.3
 contextlib2==0.6.0.post1
 cryptography==36.0.0
 cycler==0.11.0
